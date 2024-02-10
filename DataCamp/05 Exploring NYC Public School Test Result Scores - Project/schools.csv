@@ -1,5 +1,5 @@
 school_name,borough,building_code,average_math,average_reading,average_writing,percent_tested
-New Explorations into Science, Technology and Math High School,Manhattan,M022,657,601,601,
+"New Explorations into Science, Technology and Math High School",Manhattan,M022,657,601,601,
 Essex Street Academy,Manhattan,M445,395,411,387,78.9
 Lower Manhattan Arts Academy,Manhattan,M445,418,428,415,65.1
 High School for Dual Language and Asian Studies,Manhattan,M445,613,453,463,95.9
@@ -45,13 +45,13 @@ Manhattan Bridges High School,Manhattan,M535,409,360,347,84.4
 Urban Assembly Gateway School for Technology,Manhattan,M625,445,432,415,78.4
 Food and Finance High School,Manhattan,M535,428,435,421,52.0
 Eleanor Roosevelt High School,Manhattan,M855,641,617,631,86.0
-High School for Arts, Imagination, and Inquiry,Manhattan,M490,375,389,380,58.8
+"High School for Arts, Imagination, and Inquiry",Manhattan,M490,375,389,380,58.8
 Urban Assembly School for Media Studies,Manhattan,M490,392,419,396,49.5
 Beacon High School,Manhattan,M837,583,586,595,82.8
 Fiorello H. LaGuardia High School of Music and Art and Performing Arts,Manhattan,M485,592,592,597,88.5
 High School of Arts and Technology,Manhattan,M490,421,428,406,44.4
 Manhattan / Hunter Science High School,Manhattan,M490,581,531,535,97.2
-High School for Law, Advocacy, and Community Justice,Manhattan,M490,415,417,402,60.5
+"High School for Law, Advocacy, and Community Justice",Manhattan,M490,415,417,402,60.5
 Urban Assembly School for Green Careers,Manhattan,M470,393,371,378,60.0
 Frank McCourt High School,Manhattan,M470,489,491,500,89.1
 Global Learning Collaborative,Manhattan,M470,406,407,413,59.4
@@ -67,7 +67,7 @@ Young Women's Leadership School,Manhattan,M895,478,465,472,100.0
 Manhattan Center for Science and Mathematics,Manhattan,M435,556,505,495,87.6
 Mott Hall High School,Manhattan,M136,416,445,440,36.9
 Thurgood Marshall Academy for Learning and Social Change,Manhattan,M970,402,394,400,84.7
-High School for Mathematics, Science, and Engineering at City College,Manhattan,M812,683,610,596,92.6
+"High School for Mathematics, Science, and Engineering at City College",Manhattan,M812,683,610,596,92.6
 A. Philip Randolph Campus High School,Manhattan,M540,459,453,447,74.0
 Gregorio Luperon High School for Science and Mathematics,Manhattan,M876,383,355,352,71.0
 Community Health Academy of the Heights,Manhattan,M814,387,389,385,55.3
@@ -99,7 +99,7 @@ Susan E. Wagner High School,Staten Island,R460,496,490,487,66.3
 Gaynor McCown Expeditionary Learning School,Staten Island,R043,442,458,454,55.8
 CSI High School for International Studies,Staten Island,R043,477,468,464,83.5
 New Explorers High School,Bronx,X790,390,398,376,30.4
-Bronx School for Law, Government, and Justice,Bronx,X460,403,409,415,63.8
+"Bronx School for Law, Government, and Justice",Bronx,X460,403,409,415,63.8
 Urban Assembly School for Careers in Sports,Bronx,X790,402,405,395,55.5
 Bronx Leadership Academy II High School,Bronx,X790,384,355,361,61.3
 Urban Assembly Bronx Academy of Letters,Bronx,X183,398,400,405,57.8
@@ -157,7 +157,7 @@ Bronx School of Law and Finance,Bronx,X475,384,394,366,48.3
 Bronx Engineering and Technology Academy,Bronx,X475,394,406,391,59.6
 Bronx Theatre High School,Bronx,X475,382,384,390,66.7
 Marble Hill High School for International Studies,Bronx,X475,451,417,423,92.9
-Marie Curie School for Medicine, Nursing, and Health Professions,Bronx,X143,423,420,425,68.6
+"Marie Curie School for Medicine, Nursing, and Health Professions",Bronx,X143,423,420,425,68.6
 Riverdale/Kingsbridge Academy,Bronx,X141,496,485,476,69.4
 New World High School,Bronx,X362,407,363,358,93.0
 Bronxwood Preparatory Academy,Bronx,X362,392,408,392,43.3
@@ -189,7 +189,7 @@ Metropolitan Soundview High School,Bronx,X420,444,428,422,52.0
 High School of World Cultures,Bronx,X420,356,359,347,38.2
 Millennium Art Academy,Bronx,X450,396,413,395,39.2
 Bronx Guild,Bronx,X450,365,393,357,41.3
-Archimedes Academy for Math, Science, and Technology Applications,Bronx,X174,418,430,403,
+"Archimedes Academy for Math, Science, and Technology Applications",Bronx,X174,418,430,403,
 Pablo Neruda Academy,Bronx,X450,394,384,383,44.2
 Women's Academy of Excellence,Bronx,X174,386,390,389,45.2
 Felisa Rincon de Gautier Institute for Law and Public Policy,Bronx,X972,389,408,413,31.3
@@ -213,11 +213,11 @@ William Cullen Bryant High School,Queens,Q445,466,424,426,56.9
 Long Island City High School,Queens,Q452,430,423,412,51.6
 Frank Sinatra School of the Arts High School,Queens,Q570,536,543,543,89.5
 Baccalaureate School for Global Education,Queens,Q798,633,620,628,98.5
-Science Skills Center High School for Science, Technology, and the Creative Arts,Brooklyn,K805,399,397,386,65.9
+"Science Skills Center High School for Science, Technology, and the Creative Arts",Brooklyn,K805,399,397,386,65.9
 Brooklyn International High School,Brooklyn,K805,432,334,333,92.7
 School for International Studies,Brooklyn,K293,417,406,394,65.1
 Brooklyn School for Global Studies,Brooklyn,K293,393,381,402,61.8
-City Polytechnic High School of Engineering, Architecture, and Technology,Brooklyn,K580,503,477,427,18.5
+"City Polytechnic High School of Engineering, Architecture, and Technology",Brooklyn,K580,503,477,427,18.5
 Urban Assembly Institute of Math and Science for Young Women,Brooklyn,K313,397,415,407,82.4
 Urban Assembly School for Law and Justice,Brooklyn,K313,446,443,430,87.6
 Cobble Hill School of American Studies,Brooklyn,K804,416,420,402,55.3
@@ -232,7 +232,7 @@ Arts and Media Preparatory Academy,Brooklyn,K232,370,383,374,64.2
 School for Democracy and Leadership,Brooklyn,K470,386,385,390,53.5
 Urban Assembly School for Criminal Justice,Brooklyn,K223,428,413,417,83.6
 Franklin Delano Roosevelt High School,Brooklyn,K505,504,411,407,54.0
-Brooklyn Community High School of Communication, Arts, and Media,Brooklyn,K117,358,386,380,51.7
+"Brooklyn Community High School of Communication, Arts, and Media",Brooklyn,K117,358,386,380,51.7
 Dr. Susan S. McKinney Secondary School of the Arts,Brooklyn,K265,332,346,350,55.1
 Benjamin Banneker Academy,Brooklyn,K914,479,484,472,85.5
 Juan Morel Campos Secondary School,Brooklyn,K071,366,356,353,56.3
@@ -247,7 +247,7 @@ Performing Arts and Technology High School,Brooklyn,K435,375,393,394,39.8
 East New York Family Academy,Brooklyn,K819,464,451,421,66.7
 Brooklyn Lab School,Brooklyn,K420,383,376,370,46.8
 Multicultural High School,Brooklyn,K420,319,323,284,
-School for Classics: An Academy of Thinkers, Writers, and Performers,Brooklyn,K218,387,391,383,52.8
+"School for Classics: An Academy of Thinkers, Writers, and Performers",Brooklyn,K218,387,391,383,52.8
 Transit Tech Career and Technical Education High School,Brooklyn,K615,387,387,384,37.2
 Cypress Hills Collegiate Preparatory School,Brooklyn,K420,365,370,362,53.8
 Academy for Young Writers,Brooklyn,K422,382,413,391,81.2
@@ -255,7 +255,7 @@ Academy of Innovative Technology,Brooklyn,K420,395,376,359,57.4
 Fort Hamilton High School,Brooklyn,K490,513,456,451,68.7
 Midwood High School,Brooklyn,K405,550,514,516,85.7
 PROGRESS High School for Professional Careers,Brooklyn,K450,380,377,384,44.9
-High School for Enterprise, Business, and Technology,Brooklyn,K450,463,446,425,54.5
+"High School for Enterprise, Business, and Technology",Brooklyn,K450,463,446,425,54.5
 Brooklyn Preparatory High School,Brooklyn,K650,391,406,391,74.5
 El Puente Academy for Peace and Justice,Brooklyn,K778,344,380,379,62.5
 School for Legal Studies,Brooklyn,K450,393,390,394,34.8
@@ -296,7 +296,7 @@ Medgar Evers College Preparatory School,Brooklyn,K590,525,500,481,89.0
 Clara Barton High School,Brooklyn,K600,408,424,407,55.0
 International High School at Prospect Heights,Brooklyn,K440,344,302,300,81.7
 High School for Global Citizenship,Brooklyn,K440,377,386,375,61.9
-Science, Technology, and Research Early College High School at Erasmus,Brooklyn,K465,496,491,484,91.5
+"Science, Technology, and Research Early College High School at Erasmus",Brooklyn,K465,496,491,484,91.5
 Academy for College Preparation and Career Exploration (College Board),Brooklyn,K465,386,397,393,57.3
 High School for Youth and Community Development at Erasmus,Brooklyn,K465,360,382,359,63.2
 High School for Service and Learning at Erasmus,Brooklyn,K465,377,382,356,45.5
@@ -342,18 +342,18 @@ Forest Hills High School,Queens,Q440,517,485,483,72.8
 Queens Metropolitan High School,Queens,Q686,460,448,449,76.4
 Grover Cleveland High School,Queens,Q485,452,422,416,38.9
 Humanities and Arts Magnet High School,Queens,Q490,384,409,401,
-Mathematics, Science Research, and Technology Magnet High School,Queens,Q490,380,418,388,54.9
+"Mathematics, Science Research, and Technology Magnet High School",Queens,Q490,380,418,388,54.9
 Pathways College Preparatory School (College Board),Queens,Q192,405,427,409,72.4
 Excelsior Preparatory High School,Queens,Q420,384,407,400,70.1
 Preparatory Academy for Writers (College Board),Queens,Q420,398,410,393,69.5
 Queens Preparatory Academy,Queens,Q420,423,422,403,83.7
 George Washington Carver High School for the Sciences,Queens,Q420,439,428,419,63.5
-High School for Construction Trades, Engineering, and Architecture,Queens,Q650,489,457,451,78.9
+"High School for Construction Trades, Engineering, and Architecture",Queens,Q650,489,457,451,78.9
 John Adams High School,Queens,Q480,418,401,395,38.4
 Robert H. Goddard High School of Communication Arts and Technology,Queens,Q202,426,435,424,85.1
 Richmond Hill High School,Queens,Q475,413,406,399,37.9
 Cambria Heights Academy,Queens,Q799,418,424,411,58.5
-Queens High School of Teaching, Liberal Arts, and the Sciences,Queens,Q566,453,434,439,72.4
+"Queens High School of Teaching, Liberal Arts, and the Sciences",Queens,Q566,453,434,439,72.4
 Martin Van Buren High School,Queens,Q435,397,396,391,40.0
 Queens Gateway to Health Sciences Secondary School,Queens,Q695,524,511,514,92.5
 Jamaica Gateway to the Sciences,Queens,Q470,487,460,463,78.6
@@ -369,7 +369,7 @@ High School for Law Enforcement and Public Safety,Queens,Q690,410,431,409,56.6
 August Martin High School,Queens,Q400,366,372,364,26.3
 Frederick Douglass Academy VI High School,Queens,Q465,410,418,407,30.1
 Academy of Medical Technology (College Board),Queens,Q465,422,424,415,67.6
-Queens High School for Information, Research, and Technology,Queens,Q465,372,362,352,44.6
+"Queens High School for Information, Research, and Technology",Queens,Q465,372,362,352,44.6
 Rockaway Park High School for Environmental Sustainability,Queens,Q410,357,381,376,38.5
 Channel View School for Research,Queens,Q410,427,430,423,76.6
 Rockaway Collegiate High School,Queens,Q410,399,403,405,46.5
