@@ -1,13 +1,8 @@
-# My DataCamp Data Analyst with R coding journey 📊 📜
+# My DataCamp coding journey 📊
 
-* Introduction to R
-* Introduction to the Tidyverse
-* Data Manipulation with dplyr
-* Joining Data with dplyr
-* Introduction to Statistics in R
-* Introduction to Data Visualization with ggplot2
-* Exploratory Data Analysis in R
-* Sampling in R
-* Hypothesis Testing in R
+* DataCamp Data Scientist in Python
+* DataCamp Data Analyst in SQL
+* DataCamp Data Analyst with R
+
 
 
