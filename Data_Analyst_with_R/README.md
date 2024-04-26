@@ -2,7 +2,7 @@
 
 ## [Introduction to R](https://github.com/sendecka/DataCamp/tree/main/Data_Analyst_with_R/01_Introduction_to_R)
 
-![certificate](/workspaces/codespaces-blank/certifications/certificate1R.png)
+![certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificate1R.png)
 
 ## [Introduction to the Tidyverse](https://github.com/sendecka/DataCamp/tree/main/Data_Analyst_with_R/02_Introduction_to_the_Tidyverse)
 
