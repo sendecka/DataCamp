@@ -1,4 +1,4 @@
-# DataCamp - Data Analyst with R coding journey 📊📈
+# DataCamp - Data Analyst with R coding journey 📊 📈
 
 ## [Introduction to R](https://github.com/sendecka/DataCamp/tree/main/Data_Analyst_with_R/01_Introduction_to_R)
 
