@@ -2,7 +2,7 @@
 
 ## [Introduction to SQL](https://github.com/sendecka/DataCamp/tree/main/DataCamp%20Data%20Analyst%20in%20SQL/01%20Introduction%20to%20SQL)
 
-![certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateSQL1.png))
+![certificate](https://github.com/sendecka/My-Certifications/blob/main/certifications/certificateSQL1.png)
 
 ## [Intermediate SQL](https://github.com/sendecka/DataCamp/tree/main/DataCamp%20Data%20Analyst%20in%20SQL/02%20Intermediate%20SQL)
 
